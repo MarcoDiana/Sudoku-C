@@ -1,4 +1,16 @@
-*.exe
-*.o
-*.bin
+# Build directory
+build/
+
+# IDE files
 .vscode/
+.idea/
+
+# Object files and executables
+*.o
+*.obj
+*.exe
+*.out
+*.app
+*.dll
+*.so
+*.dylib
